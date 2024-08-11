@@ -14,3 +14,8 @@ Detailed Metadata: Provides comprehensive details about each show or movie, incl
 
 Data Integration: Combines data from multiple sources (Amazon Prime, Disney+ Hotstar, and Netflix) into a unified dataset, allowing for a broad range of recommendations across different platforms.
 
+Datasets:-
+
+https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows ,
+https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows ,
+https://www.kaggle.com/datasets/shivamb/netflix-shows
